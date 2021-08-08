@@ -28,7 +28,7 @@ B.S. Petroleum Engineering, [University of Oklahoma](https://www.ou.edu/), 2021
 
 #### Experience
 
-1. Research Laboratory Assistant, IC3 at the University of Oklahoma, 2018-2020
+1. Research Laboratory Assistant, Integrated Core Characterization Center, 2018-2020
 
 #### Tools
 
