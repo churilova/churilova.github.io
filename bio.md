@@ -5,7 +5,7 @@ permalink: /bio
 
 #### Personal Statement
 
-I am a first-year M.S. student at the [Department of Petroleum Engineering at Texas A&M University](https://engineering.tamu.edu/petroleum/index.html).
+I am a first-year M.S. student at [Harold Vance Department of Petroleum Engineering at Texas A&M University](https://engineering.tamu.edu/petroleum/index.html).
 
 #### Documents
 
