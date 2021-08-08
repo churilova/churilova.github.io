@@ -5,54 +5,39 @@ permalink: /bio
 
 #### Personal Statement
 
-I am a first-year Ph.D student at the [Department of Statistics at Texas A&M University](https://stat.tamu.edu/). I am broadly interested in machine learning and its theoretical underpinning.
+I am a first-year M.S. student at the [Department of Petroleum Engineering at Texas A&M University](https://engineering.tamu.edu/petroleum/index.html).
 
 #### Documents
-Please, download my complete CV [here](https://drive.google.com/file/d/1-N6sYMpYoAFKtGYILjIJvpTSZAAfJZox/view?usp=sharing).
+Please, download my complete CV [here](https://drive.google.com/file/d/1dQGCibyFEbEEYngk-DzH1LpgqdAgZ1v4/view?usp=sharing). Complete list of the courses that I have taken can be found [here](https://drive.google.com/file/d/187W6G6XZqmHwyZnBPDGlc9p1sEKfqM9y/view?usp=sharing).
 
 #### Education
 
-B.S. Mathematics (with highest distinictions, GPA: 4.00), [University of Oklahoma](https://www.ou.edu/), 2020  
-B.A. Economics (with highest distinctions, GPA: 4.00), [University of Oklahoma](https://www.ou.edu/), 2020
+B.S. Petroleum Engineering, [University of Oklahoma](https://www.ou.edu/), 2021
 
+#### Scholarships
 
-#### Publications
-
-1. Kramar, Miroslav and Sergazinov, Renat \(2020\). [*Force Reconstruction in Photoelastic Granular Materials Using Deep Learning.*](https://arxiv.org/abs/2010.01163) Preprint arXiv. [\[Code\]](https://github.com/mrsergazinov/PhotoForceReconML)
-
-#### Talks
-
-1. *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning*, Undergraduate Research, University of Oklahoma. [\[OSF\]](https://osf.io/5epzm/)
-
-#### Grants
-
-1. *Force Reconstruction in Photoelastic Granular Materials Using Deep Learning*, [Undergraduate Research Program](https://www.ou.edu/honors/undergraduate-research/urop), University of Oklahoma, Fall 2019, $800.00
-
-
-#### Software
-
-1. cartcpp: fast implementation of classification and regression trees (CART) in R using R Modules, C++, and Armadillo library. Currently available from [\[Github\]](https://github.com/mrsergazinov/cartcpp). 
+1. Mewbourne School of Petroleum Engineering
+2. Gallogly College of Engineering Diversity and Inclusion Scholar
+3. Academic Excellence Award
 
 #### Honors
 
-1. President’s Honor Roll, University of Oklahoma (2016-2020)
-2. Alexander B. Holmes Economics Scholar, University of Oklahoma
-3. Frederick B. Swan Mathematics Scholar, University of Oklahoma
-4. Transfer Leadership Award, University of Oklahoma
-5. Transfer Academic Excellence Award, University of Oklahoma
+1. President's List, 2020-2021
+2. Dean's List, 2018-2021
 
-#### Industry Experience
+#### Experience
 
-1. Data Manager Intern, [Samruk Energy JSC](https://www.samruk-energy.kz/en/), 2019
-2. Financial Manager Intern, Vertical CJSC, 2018
+1. Research Laboratory Assistant, IC3 at the University of Oklahoma, 2018-2020
 
 #### Tools
 
-1. Programming languages: C++, R, Python
-2. Scripting: Bash
-3. Version control: Git (Github)
+1. Specialized software: ARIES, Petrel, PIPESIM, Harmony, PVTsim
+2. Programming languages: Python, VBA
+3. Scripting: Bash
+4. Version control: Git (Github)
+5. Packages: Keras (Tensorflow), Scikit-learn, Numpy, Pandas, Seaborn
 
 #### Contacts
 
-Email: [`mrsergazinov@tamu.edu`](mailto:mrsergazinov@tamu.edu)  
-Message: [`+1(405) 857-5617`](sms:14058575617)
+Email: [`churilova@tamu.edu`](mailto:churilova@tamu.edu)  
+Message: [`+1(405) 857-5003`](sms:14058575003)
