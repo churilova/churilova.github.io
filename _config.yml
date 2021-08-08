@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://mrsergazinov.github.io
+url:                   https://churilova.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -23,7 +23,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Renat Sergazinov
+title:                 Polina Churilova
 
 # A shorter description for the sidebar.
 tagline:               Ph.D Student in Statistics at Texas A&M University
@@ -39,11 +39,11 @@ logo:                  /assets/icons/profile.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Renat Sergazinov
-  email:               mrsergazinov@tamu.edu
+  name:                Polina Churilova
+  email:               churilova@tamu.edu
   social:
-    github: mrsergazinov
-    email: mailto:mrsergazinov@tamu.edu
+    github: churilova
+    email: mailto:churilova@tamu.edu
     linkedin: renatsergazinov
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -53,9 +53,7 @@ menu:
   - title:             Bio
     url:               /bio
   - title:             CV
-    url: https://drive.google.com/file/d/1-N6sYMpYoAFKtGYILjIJvpTSZAAfJZox/view?usp=sharing
-  - title:             Publications
-    url:               /publications
+    url: https://drive.google.com/file/d/1dQGCibyFEbEEYngk-DzH1LpgqdAgZ1v4/view?usp=sharing
   - title:             Sources
     url:               /sources
 
@@ -196,7 +194,7 @@ plugins:
 
 # Used on index and about sites
 social:
-  name:                Renat Sergazinov
+  name:                Polina Churilova
 
 
 # Plugin Configs

@@ -8,6 +8,7 @@ permalink: /bio
 I am a first-year M.S. student at the [Department of Petroleum Engineering at Texas A&M University](https://engineering.tamu.edu/petroleum/index.html).
 
 #### Documents
+
 Please, download my complete CV [here](https://drive.google.com/file/d/1dQGCibyFEbEEYngk-DzH1LpgqdAgZ1v4/view?usp=sharing). Complete list of the courses that I have taken can be found [here](https://drive.google.com/file/d/187W6G6XZqmHwyZnBPDGlc9p1sEKfqM9y/view?usp=sharing).
 
 #### Education
